@@ -20,11 +20,11 @@ All assets are used according to their original licenses:
 - 🎵 Music:  
   https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623  
 
-- 👻 Ghost Character (Free):  
+- 👻 Little Ghost lowpoly:  
   https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926  
 
-- 🧩 Additional shapes & props (Publisher):  
-  https://assetstore.unity.com/publishers/23554  
+- 🧩 Dragon for Boss Monster HP:  
+  https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398 
 
 ---
 
